@@ -9,7 +9,7 @@
 - <b>Advanced Network & Security Configurations(CiscoPacketTracer)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Active Directory Virtual Network Configurations</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Active Directory Virtual Lab](https://github.com/AyadHamza/ActiveDirectoryLAB)
 - <b>Active Directory Group Policiy Objects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>PowerShell</b>
