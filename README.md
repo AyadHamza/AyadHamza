@@ -13,8 +13,8 @@
 - <b>Active Directory Group Policiy Objects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Script to automate the creation of 1000+ users](https://github.com/AyadHamza/ADUserPowerShellScript)
+  - [Script to delete all users within an organization unit without being prompted for varificaiton](https://github.com/AyadHamza/DeleteADUsers)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
