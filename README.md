@@ -3,7 +3,7 @@
 <h2>👨‍💻 Network/Security Development Projects:</h2>
 
 - <b>Basic Network Configurations (CiscoPacketTracer)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Basic Network Configuration](https://github.com/AyadHamza/BasicNetworkConfig)
 - <b>Basic Network Security Configurations(CiscoPacketTracer)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Advanced Network & Security Configurations(CiscoPacketTracer)</b>
