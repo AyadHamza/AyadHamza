@@ -15,7 +15,7 @@
 - <b>PowerShell</b>
   - [Active Directory Script to automate the creation of 1000+ users](https://github.com/AyadHamza/ADUserPowerShellScript)
   - [Script to delete all users within an organization unit without being prompted for varificaiton](https://github.com/AyadHamza/DeleteADUsers)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Parsing Through XML Format NMAP Scan]([https://github.com/joshmadakor1/AD_PS](https://github.com/AyadHamza/NmapScanScript))
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 <h2>🎓Education/Certification</h2>
