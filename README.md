@@ -3,18 +3,18 @@
 <h2>👨‍💻 Network/Security Development Projects:</h2>
 
 - <b>Basic Network Configurations (CiscoPacketTracer)</b>
-  - [Praciting Basic Network Configuration](https://github.com/AyadHamza/BasicNetworkConfig)
+  - [Praciting Basic Network Configurations](https://github.com/AyadHamza/BasicNetworkConfig)
 - <b>Advanced Network & Security Configurations(CiscoPacketTracer)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Practicing Advanced Network Configurations]() 
 - <b>Active Directory Virtual Network Configurations</b>
   - [Active Directory Virtual Lab](https://github.com/AyadHamza/ActiveDirectoryLAB)
-- <b>Active Directory Group Policiy Objects</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+- <b>Active Directory Group Policy Objects</b>
+  - [Practicing Group Policy Object Configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>PowerShell</b>
   - [Active Directory Script to automate the creation of 1000+ users](https://github.com/AyadHamza/ADUserPowerShellScript)
   - [Script to delete all users within an organization unit without being prompted for varificaiton](https://github.com/AyadHamza/DeleteADUsers)
   - [Parsing Through XML Format NMAP Scan](https://github.com/AyadHamza/NmapScanScript)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [FIM (File Integrity Monitor)]()
 
 <h2>🎓Education/Certification</h2>
 
