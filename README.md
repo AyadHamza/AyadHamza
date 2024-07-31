@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ayad! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Network/Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Ayad! <br/><a href="https://github.com/AyadHamza">Programmer</a>, <a href="https://www.linkedin.com/in/ayadhamza/">Network/Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UC06yXZTNg4vFXAq34nOFJKw">YouTuber</a></h1>
 
 <h2>👨‍💻 Network/Security Development Projects:</h2>
 
