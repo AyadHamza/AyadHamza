@@ -12,7 +12,7 @@
   - [Practicing Group Policy Object Configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>PowerShell</b>
   - [Active Directory Script to automate the creation of 1000+ users](https://github.com/AyadHamza/ADUserPowerShellScript)
-  - [Script to delete all users within an organization unit without being prompted for varificaiton](https://github.com/AyadHamza/DeleteADUsers)
+  - [Script to delete all users within an organizational unit without being prompted for varificaiton](https://github.com/AyadHamza/DeleteADUsers)
   - [Parsing Through XML Format NMAP Scan](https://github.com/AyadHamza/NmapScanScript)
   - [FIM (File Integrity Monitor)]()
 
