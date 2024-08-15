@@ -17,7 +17,7 @@
   - [Parsing Through XML Format NMAP Scan](https://github.com/AyadHamza/NmapScanScript)
   - [FIM (File Integrity Monitor)](https://github.com/AyadHamza/FIM)
 - <b>Python</b>
-  - [Selenium library Program to Automate repetative browser tasks for downloading drivers](https://github.com/AyadHamza/NetConnectivityDoc)
+  - [Selenium library Program to Automate Repetative Browser Tasks For Downloading Drivers](https://github.com/AyadHamza/NetConnectivityDoc)
 
 <h2>🎓Education/Certification</h2>
 
