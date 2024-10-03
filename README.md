@@ -32,7 +32,7 @@
 [<img align="left" alt="AyadHamza | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UC06yXZTNg4vFXAq34nOFJKw
-[linkedin]: www.linkedin.com/in/AyadHamza/
+[linkedin]: https://www.linkedin.com/in/ayadhamza/
 
 
 <!--
