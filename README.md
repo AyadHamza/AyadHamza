@@ -9,7 +9,7 @@
 - <b>Active Directory Virtual Network Configurations</b>
   - [Active Directory Virtual Lab](https://github.com/AyadHamza/ActiveDirectoryLAB)
 - <b>Active Directory Group Policy Objects</b>
-  - [Practicing Group Policy Object Configuration](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Practicing Group Policy Object Configuration]()
 - <b>PowerShell</b>
   - [Monitor Network Connectivity And Document Any Network Disconnection](https://github.com/AyadHamza/NetConnectivityDoc)
   - [Active Directory Script to automate the creation of 1000+ users](https://github.com/AyadHamza/ADUserPowerShellScript)
